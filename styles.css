@@ -1,0 +1,255 @@
+
+
+body {
+
+      position: relative; 
+
+      font-family: 'Vollkorn', serif;
+
+    }
+
+    p{
+
+      font-size: 20px;
+
+      padding-top: 10px;
+
+    }
+
+    button{
+
+      border-radius: 10px 0 10px 0;
+
+}
+
+img{
+
+  width:100%;
+
+  height: auto;
+
+}
+
+.right{
+
+  float: right;
+
+}
+
+
+
+  #about {
+
+    padding-top:50px;
+
+    height:auto;
+
+    color: #000;
+
+    background-color: #fff;}
+
+  #portfolio {
+
+    padding:50px 0px;
+
+    height:auto;
+
+    color: #fff;
+
+    background-color: #001923;}
+
+  #hireme {
+
+    padding:50px 0px;
+
+    height:auto;
+
+    color: #fff;
+
+    background-color: #499936;}
+
+  #footer1 {padding:50px 0px;height:auto;color: #fff; background-color: #001923;}
+
+ 
+
+  .fa-code{
+
+    color:#4791d2;
+
+  }
+
+  .fa-diamond{
+
+    display:block;
+
+    padding-top: 10px;
+
+    color:#001923;
+
+  }
+
+  .fa-code-port{
+
+    display:block;
+
+    
+
+  }
+
+  
+
+  .fa-twitter{
+
+  color: #0084b4;
+
+}
+
+.fa-facebook{
+
+  color:#3b5998;
+
+}
+
+.fa-youtube{
+
+  color:#bb0000;
+
+}
+
+.fa-linkedin{
+
+  color:#0077B5;
+
+}
+
+.fa-instagram{
+
+  color:#cd486b;
+
+}
+
+
+
+.fa-codepen{
+
+  color: #001923;
+
+}
+
+
+
+.fa-github{
+
+color: #49993e;
+
+
+
+}
+
+.progress {
+
+  height: 35px;
+
+
+
+}
+
+.progress .codes {
+
+  line-height: 35px;
+
+  padding: 0;
+
+  margin: 0 0 0 20px;
+
+  text-transform: uppercase;
+
+}
+
+.progress .codes .val {
+
+  float: right;
+
+  margin: 0 20px 0 0;
+
+}
+
+
+
+.progress-bar {
+
+  text-align: left;
+
+  transition-duration: 3s;
+
+}
+
+
+
+
+
+.image {
+
+  display: block;
+
+  width: 100%;
+
+  height: auto;
+
+}
+
+.overlay {
+
+  position: absolute;
+
+  top: 0;
+
+  bottom: 0;
+
+  left: 15.5px;
+
+  right: 0;
+
+  height: auto;
+
+  width: 91%;
+
+  opacity: 0;
+
+  transition: .5s ease;
+
+  background-color: #ff5f19;
+
+}
+
+
+
+.col-lg-4:hover .overlay {
+
+  opacity: 1;
+
+}
+
+
+
+
+
+
+
+.text {
+
+  color: white;
+
+  font-size: 20px;
+
+  position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  -ms-transform: translate(-50%, -50%);
+
+}
